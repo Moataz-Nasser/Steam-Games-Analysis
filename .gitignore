@@ -10,6 +10,9 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
+# Original report (Markdown version is in README.md)
+Steam Games Analysis.docx
+
 # Local environment variables
 .env
 .env.*
