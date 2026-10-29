@@ -1,10 +1,5 @@
 # Steam Games Analysis
 
-## Made By
-
-Name: Moataz Nasser  
-Group: C
-
 ## Dataset
 
 Dataset used: Steam games Dataset 2025  
